@@ -8,3 +8,5 @@ Thank you for visiting this learning repository
 
 ## Add
 サイトにファビコンを追加
+
+typo 
