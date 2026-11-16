@@ -12,4 +12,8 @@ Thank you for visiting this learning repository
 # Add
 Revert Test
 
+<<<<<<< HEAD
 # hello-git (main version)
+=======
+# hello-git (feature version)
+>>>>>>> update-readme
