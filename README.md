@@ -18,4 +18,5 @@ Revert Test
 # hello-git (feature version)
 >>>>>>> update-readme
 
-SAKAUE
+## Welcome
+Thank you for visiting this learning repository!
